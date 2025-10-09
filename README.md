@@ -68,10 +68,15 @@ System Hardening and Exploitation Techniques
 Incident Response and Forensics Reporting
 
 **Candidate Details**
+
 **Name**: Prathyusha Kale
+
 **Intern ID**: APSPL_UID9364
+
 **Program**: Cybersecurity & Ethical Hacking Internship
+
 **Organization**: ApexPlanet Software Pvt. Ltd.
+
 **Duration**: 60 Days
 
 **Acknowledgment**
